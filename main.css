@@ -14,7 +14,7 @@ html, body{
 
 .header {
     background-color: #000;
-    background-image: url('./../img/mt.jpg');
+    background-image: url('./img/mt.jpg');
     background-size: cover;
     background-position: center center;
     height: 800px;
